@@ -22,7 +22,9 @@
 
 ##Results:
 
-- Dashboard: It shows the total number of bike rides/trips in the month of August (2,344,224), gender breakdown (male: 1,530,272 / female: 588,431 / unknown: 225,521), as well as average trip duration by age (birth year).
+- Dashboard: 
+![alt text](https://github.com/Yunaka1269/bikesharing/blob/main/pic/dash.PNG "Dashboard")
+It shows the total number of bike rides/trips in the month of August (2,344,224), gender breakdown (male: 1,530,272 / female: 588,431 / unknown: 225,521), as well as average trip duration by age (birth year).
 
 - Checkout Times for Users: It shows the number of bikes (y axis) being used per tripduration (x axis). The bikes are commonly used for 4-6th hours with the peak at 5 hours and 15 minutes.
 
