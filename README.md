@@ -42,8 +42,8 @@ It shows the peak usage hours for the month August (y axis shows the hours and x
 ![alt text](https://github.com/Yunaka1269/bikesharing/blob/main/pic/trips_by_weekday_each_hour.PNG "Trips by Weekday for Each Hour")
 This is breakdown of "August Peak Hours" by day of week. y axis shows the hours and x axis shows the day of week. The heatmap indicates the number of bikes. The darker the color, more bikes being used. The large number of bikes are used during peak hours (8-9 am and 5-7pm) from "August Peak Hours" on weekday (Mon - Fri). However, more bikes are used b/w 9am - 9pm inversely on weekend (Sat/Sun).
 
-- Trips by Gender (Weekday per Hour):
-![alt text](https://github.com/Yunaka1269/bikesharing/blob/main/pic/trips_by_gender_weekday_per_hour.PNG "Trips by Gender (Weekday per Hour)")
+- Trips by Gender Weekday per Hour:
+![alt text](https://github.com/Yunaka1269/bikesharing/blob/main/pic/trips_by_gender_weekday_per_hour.PNG "Trips by Gender Weekday per Hour")
 This is the same graph but split into three parts based on gender (female/male/unknown). Although the bike counts is higher with male users, the trip patterns (hours/weekday) are identical. 
 
 - Trips by Gender by Weekday:
