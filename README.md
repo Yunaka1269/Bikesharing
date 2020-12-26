@@ -51,6 +51,7 @@ This is the same graph but split into three parts based on gender (female/male/u
 - Trips by Gender by Weekday:
 
 ![alt text](https://github.com/Yunaka1269/bikesharing/blob/main/pic/trips_by_gender_weekday.PNG "Trips by Gender by Weekday")
+
 This heatmap shows the count of bikes used by weekday and gender. The darker the blue, the higher the count.
 
 - Top Starting/Ending Locations:
