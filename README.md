@@ -4,7 +4,7 @@
 
 - Deliverable 1: Change Trip Duration to a Datetime Format:
 	- Using Python and Pandas to convert the "tripduration" column from an interger to a datetime datatype to get the time in hours, minutes, and seconds.Then, export the DataFrame as a csv file to use for Deliverable 2. 
-	- use pd.to_datetime() function 
+	- use ```pandas pd.to_datetime() function``` 
 
 - Deliverable 2: Create Visualizations for the Trip Analysis 
 	- How long bikes are checked out for all riders and genders.
