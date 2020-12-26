@@ -22,6 +22,8 @@
 
 ##Results:
 
+[link to NYC Citibike Analysis](https://public.tableau.com/profile/yu.nakanishi#!/vizhome/NYCCitibikeAnalysis_16087100536870/NYCCitibikeAnalysis "link to NYC Citibike Analysis")
+
 - Dashboard: 
 ![alt text](https://github.com/Yunaka1269/bikesharing/blob/main/pic/dash.PNG "Dashboard")
 It shows the total number of bike rides/trips in the month of August (2,344,224), gender breakdown (male: 1,530,272 / female: 588,431 / unknown: 225,521), as well as average trip duration by age (birth year).
