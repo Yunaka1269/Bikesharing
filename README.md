@@ -1,6 +1,6 @@
 # NYC Citibike Analysis
 
-##Analyze NYC Citi Bike data during the month of August that has been released to the public and identify if the relevant data will be able to apply to bike-sharing company in Des Moines.  
+## Analyze NYC Citi Bike data during the month of August that has been released to the public and identify if the relevant data will be able to apply to bike-sharing company in Des Moines.  
 
 - Deliverable 1: Change Trip Duration to a Datetime Format:
 	- Using Python and Pandas to convert the "tripduration" column from an interger to a datetime datatype to get the time in hours, minutes, and seconds.Then, export the DataFrame as a csv file to use for Deliverable 2. 
@@ -11,7 +11,7 @@
 	- How many trips are taken by the hour for each day of the week, for all riders and genders.
 	- A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
 
-###Resources
+### Resources
 
 - Data Source: 
 	- 201908-citibike-tripdata.csv
@@ -20,7 +20,7 @@
 	- Jupyter Notebook 6.1.4
 	- Tableau Public 2020.4.0
 
-##Results:
+## Results:
 
 [link to NYC Citibike Analysis](https://public.tableau.com/profile/yu.nakanishi#!/vizhome/NYCCitibikeAnalysis_16087100536870/NYCCitibikeAnalysis "link to NYC Citibike Analysis")
 
@@ -61,6 +61,6 @@ This heatmap shows the count of bikes used by weekday and gender. The darker the
 The size and the color of circle indicate the bike counts (bigger/darker the circle, the higher in bike counts). Two maps show the top starting locations and endfing locations. Noticebly, these top locations are almost the same. They may be popular tourist sites/landmarks and or near business/financial district.  
 
 
-##Summary:
+## Summary:
 
 Even though our bike-sharing company is in Des Moines, we can expect the same weekday/hours bike ride pattern and gender ratio from NYC result. It is crucial to determine the station locations that are close to major tourist sites/landmarks and also close to business district to attact both the leisure travelers and the local commuters. Bikes need to be maintained between 9pm and 6am next day and are to be allocated aproppriately depending on demands. Upon launching the bike sharing srevice, we may want to offer a promotion that's targeting on riders who were born 1990 and after since tripduration increases in NYC.  
